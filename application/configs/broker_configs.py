@@ -4,6 +4,6 @@ mqtt_broker_configs ={
     "CLIENT_NAME": "teste-paho",
     "KEEPALIVE": 60,
     "USERNAME": "TOKEN",
-    "PASSWORD": "701db075-4325-46ba-97bd-0499d2a62412",
-    "TOPIC": "/teste/paho",
+    "PASSWORD": "29c6fc82-abf6-4b91-b8e7-aac2ad0328ca",
+    "TOPIC": "ascitech/umc/itg200",
 }
